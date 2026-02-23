@@ -1,5 +1,2 @@
-*.msapp binary
-*.zip binary
-*.json linguist-language=json
-*.yaml linguist-language=yaml
-*.pa.yaml linguist-language=powerquery
+*.yaml linguist-detectable=true
+*.json linguist-detectable=true
